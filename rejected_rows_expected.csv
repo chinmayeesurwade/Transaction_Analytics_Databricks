@@ -1,0 +1,6 @@
+transaction_id,reason
+T000084,unknown customer
+T000148,nonpositive amount
+T000202,missing channel
+T000011,duplicate transaction ID
+T000026,duplicate transaction ID

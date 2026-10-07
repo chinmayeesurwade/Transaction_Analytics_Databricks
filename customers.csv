@@ -1,0 +1,401 @@
+customer_id,segment,region,join_date
+C0001,Premier,South,2024-01-02
+C0002,Small Business,East,2024-01-03
+C0003,Retail,West,2024-01-04
+C0004,Premier,North,2024-01-05
+C0005,Small Business,South,2024-01-06
+C0006,Retail,East,2024-01-07
+C0007,Premier,West,2024-01-08
+C0008,Small Business,North,2024-01-09
+C0009,Retail,South,2024-01-10
+C0010,Premier,East,2024-01-11
+C0011,Small Business,West,2024-01-12
+C0012,Retail,North,2024-01-13
+C0013,Premier,South,2024-01-14
+C0014,Small Business,East,2024-01-15
+C0015,Retail,West,2024-01-16
+C0016,Premier,North,2024-01-17
+C0017,Small Business,South,2024-01-18
+C0018,Retail,East,2024-01-19
+C0019,Premier,West,2024-01-20
+C0020,Small Business,North,2024-01-21
+C0021,Retail,South,2024-01-22
+C0022,Premier,East,2024-01-23
+C0023,Small Business,West,2024-01-24
+C0024,Retail,North,2024-01-25
+C0025,Premier,South,2024-01-26
+C0026,Small Business,East,2024-01-27
+C0027,Retail,West,2024-01-28
+C0028,Premier,North,2024-01-29
+C0029,Small Business,South,2024-01-30
+C0030,Retail,East,2024-01-31
+C0031,Premier,West,2024-02-01
+C0032,Small Business,North,2024-02-02
+C0033,Retail,South,2024-02-03
+C0034,Premier,East,2024-02-04
+C0035,Small Business,West,2024-02-05
+C0036,Retail,North,2024-02-06
+C0037,Premier,South,2024-02-07
+C0038,Small Business,East,2024-02-08
+C0039,Retail,West,2024-02-09
+C0040,Premier,North,2024-02-10
+C0041,Small Business,South,2024-02-11
+C0042,Retail,East,2024-02-12
+C0043,Premier,West,2024-02-13
+C0044,Small Business,North,2024-02-14
+C0045,Retail,South,2024-02-15
+C0046,Premier,East,2024-02-16
+C0047,Small Business,West,2024-02-17
+C0048,Retail,North,2024-02-18
+C0049,Premier,South,2024-02-19
+C0050,Small Business,East,2024-02-20
+C0051,Retail,West,2024-02-21
+C0052,Premier,North,2024-02-22
+C0053,Small Business,South,2024-02-23
+C0054,Retail,East,2024-02-24
+C0055,Premier,West,2024-02-25
+C0056,Small Business,North,2024-02-26
+C0057,Retail,South,2024-02-27
+C0058,Premier,East,2024-02-28
+C0059,Small Business,West,2024-02-29
+C0060,Retail,North,2024-03-01
+C0061,Premier,South,2024-03-02
+C0062,Small Business,East,2024-03-03
+C0063,Retail,West,2024-03-04
+C0064,Premier,North,2024-03-05
+C0065,Small Business,South,2024-03-06
+C0066,Retail,East,2024-03-07
+C0067,Premier,West,2024-03-08
+C0068,Small Business,North,2024-03-09
+C0069,Retail,South,2024-03-10
+C0070,Premier,East,2024-03-11
+C0071,Small Business,West,2024-03-12
+C0072,Retail,North,2024-03-13
+C0073,Premier,South,2024-03-14
+C0074,Small Business,East,2024-03-15
+C0075,Retail,West,2024-03-16
+C0076,Premier,North,2024-03-17
+C0077,Small Business,South,2024-03-18
+C0078,Retail,East,2024-03-19
+C0079,Premier,West,2024-03-20
+C0080,Small Business,North,2024-03-21
+C0081,Retail,South,2024-03-22
+C0082,Premier,East,2024-03-23
+C0083,Small Business,West,2024-03-24
+C0084,Retail,North,2024-03-25
+C0085,Premier,South,2024-03-26
+C0086,Small Business,East,2024-03-27
+C0087,Retail,West,2024-03-28
+C0088,Premier,North,2024-03-29
+C0089,Small Business,South,2024-03-30
+C0090,Retail,East,2024-03-31
+C0091,Premier,West,2024-04-01
+C0092,Small Business,North,2024-04-02
+C0093,Retail,South,2024-04-03
+C0094,Premier,East,2024-04-04
+C0095,Small Business,West,2024-04-05
+C0096,Retail,North,2024-04-06
+C0097,Premier,South,2024-04-07
+C0098,Small Business,East,2024-04-08
+C0099,Retail,West,2024-04-09
+C0100,Premier,North,2024-04-10
+C0101,Small Business,South,2024-04-11
+C0102,Retail,East,2024-04-12
+C0103,Premier,West,2024-04-13
+C0104,Small Business,North,2024-04-14
+C0105,Retail,South,2024-04-15
+C0106,Premier,East,2024-04-16
+C0107,Small Business,West,2024-04-17
+C0108,Retail,North,2024-04-18
+C0109,Premier,South,2024-04-19
+C0110,Small Business,East,2024-04-20
+C0111,Retail,West,2024-04-21
+C0112,Premier,North,2024-04-22
+C0113,Small Business,South,2024-04-23
+C0114,Retail,East,2024-04-24
+C0115,Premier,West,2024-04-25
+C0116,Small Business,North,2024-04-26
+C0117,Retail,South,2024-04-27
+C0118,Premier,East,2024-04-28
+C0119,Small Business,West,2024-04-29
+C0120,Retail,North,2024-04-30
+C0121,Premier,South,2024-05-01
+C0122,Small Business,East,2024-05-02
+C0123,Retail,West,2024-05-03
+C0124,Premier,North,2024-05-04
+C0125,Small Business,South,2024-05-05
+C0126,Retail,East,2024-05-06
+C0127,Premier,West,2024-05-07
+C0128,Small Business,North,2024-05-08
+C0129,Retail,South,2024-05-09
+C0130,Premier,East,2024-05-10
+C0131,Small Business,West,2024-05-11
+C0132,Retail,North,2024-05-12
+C0133,Premier,South,2024-05-13
+C0134,Small Business,East,2024-05-14
+C0135,Retail,West,2024-05-15
+C0136,Premier,North,2024-05-16
+C0137,Small Business,South,2024-05-17
+C0138,Retail,East,2024-05-18
+C0139,Premier,West,2024-05-19
+C0140,Small Business,North,2024-05-20
+C0141,Retail,South,2024-05-21
+C0142,Premier,East,2024-05-22
+C0143,Small Business,West,2024-05-23
+C0144,Retail,North,2024-05-24
+C0145,Premier,South,2024-05-25
+C0146,Small Business,East,2024-05-26
+C0147,Retail,West,2024-05-27
+C0148,Premier,North,2024-05-28
+C0149,Small Business,South,2024-05-29
+C0150,Retail,East,2024-05-30
+C0151,Premier,West,2024-05-31
+C0152,Small Business,North,2024-06-01
+C0153,Retail,South,2024-06-02
+C0154,Premier,East,2024-06-03
+C0155,Small Business,West,2024-06-04
+C0156,Retail,North,2024-06-05
+C0157,Premier,South,2024-06-06
+C0158,Small Business,East,2024-06-07
+C0159,Retail,West,2024-06-08
+C0160,Premier,North,2024-06-09
+C0161,Small Business,South,2024-06-10
+C0162,Retail,East,2024-06-11
+C0163,Premier,West,2024-06-12
+C0164,Small Business,North,2024-06-13
+C0165,Retail,South,2024-06-14
+C0166,Premier,East,2024-06-15
+C0167,Small Business,West,2024-06-16
+C0168,Retail,North,2024-06-17
+C0169,Premier,South,2024-06-18
+C0170,Small Business,East,2024-06-19
+C0171,Retail,West,2024-06-20
+C0172,Premier,North,2024-06-21
+C0173,Small Business,South,2024-06-22
+C0174,Retail,East,2024-06-23
+C0175,Premier,West,2024-06-24
+C0176,Small Business,North,2024-06-25
+C0177,Retail,South,2024-06-26
+C0178,Premier,East,2024-06-27
+C0179,Small Business,West,2024-06-28
+C0180,Retail,North,2024-06-29
+C0181,Premier,South,2024-06-30
+C0182,Small Business,East,2024-07-01
+C0183,Retail,West,2024-07-02
+C0184,Premier,North,2024-07-03
+C0185,Small Business,South,2024-07-04
+C0186,Retail,East,2024-07-05
+C0187,Premier,West,2024-07-06
+C0188,Small Business,North,2024-07-07
+C0189,Retail,South,2024-07-08
+C0190,Premier,East,2024-07-09
+C0191,Small Business,West,2024-07-10
+C0192,Retail,North,2024-07-11
+C0193,Premier,South,2024-07-12
+C0194,Small Business,East,2024-07-13
+C0195,Retail,West,2024-07-14
+C0196,Premier,North,2024-07-15
+C0197,Small Business,South,2024-07-16
+C0198,Retail,East,2024-07-17
+C0199,Premier,West,2024-07-18
+C0200,Small Business,North,2024-07-19
+C0201,Retail,South,2024-07-20
+C0202,Premier,East,2024-07-21
+C0203,Small Business,West,2024-07-22
+C0204,Retail,North,2024-07-23
+C0205,Premier,South,2024-07-24
+C0206,Small Business,East,2024-07-25
+C0207,Retail,West,2024-07-26
+C0208,Premier,North,2024-07-27
+C0209,Small Business,South,2024-07-28
+C0210,Retail,East,2024-07-29
+C0211,Premier,West,2024-07-30
+C0212,Small Business,North,2024-07-31
+C0213,Retail,South,2024-08-01
+C0214,Premier,East,2024-08-02
+C0215,Small Business,West,2024-08-03
+C0216,Retail,North,2024-08-04
+C0217,Premier,South,2024-08-05
+C0218,Small Business,East,2024-08-06
+C0219,Retail,West,2024-08-07
+C0220,Premier,North,2024-08-08
+C0221,Small Business,South,2024-08-09
+C0222,Retail,East,2024-08-10
+C0223,Premier,West,2024-08-11
+C0224,Small Business,North,2024-08-12
+C0225,Retail,South,2024-08-13
+C0226,Premier,East,2024-08-14
+C0227,Small Business,West,2024-08-15
+C0228,Retail,North,2024-08-16
+C0229,Premier,South,2024-08-17
+C0230,Small Business,East,2024-08-18
+C0231,Retail,West,2024-08-19
+C0232,Premier,North,2024-08-20
+C0233,Small Business,South,2024-08-21
+C0234,Retail,East,2024-08-22
+C0235,Premier,West,2024-08-23
+C0236,Small Business,North,2024-08-24
+C0237,Retail,South,2024-08-25
+C0238,Premier,East,2024-08-26
+C0239,Small Business,West,2024-08-27
+C0240,Retail,North,2024-08-28
+C0241,Premier,South,2024-08-29
+C0242,Small Business,East,2024-08-30
+C0243,Retail,West,2024-08-31
+C0244,Premier,North,2024-09-01
+C0245,Small Business,South,2024-09-02
+C0246,Retail,East,2024-09-03
+C0247,Premier,West,2024-09-04
+C0248,Small Business,North,2024-09-05
+C0249,Retail,South,2024-09-06
+C0250,Premier,East,2024-09-07
+C0251,Small Business,West,2024-09-08
+C0252,Retail,North,2024-09-09
+C0253,Premier,South,2024-09-10
+C0254,Small Business,East,2024-09-11
+C0255,Retail,West,2024-09-12
+C0256,Premier,North,2024-09-13
+C0257,Small Business,South,2024-09-14
+C0258,Retail,East,2024-09-15
+C0259,Premier,West,2024-09-16
+C0260,Small Business,North,2024-09-17
+C0261,Retail,South,2024-09-18
+C0262,Premier,East,2024-09-19
+C0263,Small Business,West,2024-09-20
+C0264,Retail,North,2024-09-21
+C0265,Premier,South,2024-09-22
+C0266,Small Business,East,2024-09-23
+C0267,Retail,West,2024-09-24
+C0268,Premier,North,2024-09-25
+C0269,Small Business,South,2024-09-26
+C0270,Retail,East,2024-09-27
+C0271,Premier,West,2024-09-28
+C0272,Small Business,North,2024-09-29
+C0273,Retail,South,2024-09-30
+C0274,Premier,East,2024-10-01
+C0275,Small Business,West,2024-10-02
+C0276,Retail,North,2024-10-03
+C0277,Premier,South,2024-10-04
+C0278,Small Business,East,2024-10-05
+C0279,Retail,West,2024-10-06
+C0280,Premier,North,2024-10-07
+C0281,Small Business,South,2024-10-08
+C0282,Retail,East,2024-10-09
+C0283,Premier,West,2024-10-10
+C0284,Small Business,North,2024-10-11
+C0285,Retail,South,2024-10-12
+C0286,Premier,East,2024-10-13
+C0287,Small Business,West,2024-10-14
+C0288,Retail,North,2024-10-15
+C0289,Premier,South,2024-10-16
+C0290,Small Business,East,2024-10-17
+C0291,Retail,West,2024-10-18
+C0292,Premier,North,2024-10-19
+C0293,Small Business,South,2024-10-20
+C0294,Retail,East,2024-10-21
+C0295,Premier,West,2024-10-22
+C0296,Small Business,North,2024-10-23
+C0297,Retail,South,2024-10-24
+C0298,Premier,East,2024-10-25
+C0299,Small Business,West,2024-10-26
+C0300,Retail,North,2024-10-27
+C0301,Premier,South,2024-10-28
+C0302,Small Business,East,2024-10-29
+C0303,Retail,West,2024-10-30
+C0304,Premier,North,2024-10-31
+C0305,Small Business,South,2024-11-01
+C0306,Retail,East,2024-11-02
+C0307,Premier,West,2024-11-03
+C0308,Small Business,North,2024-11-04
+C0309,Retail,South,2024-11-05
+C0310,Premier,East,2024-11-06
+C0311,Small Business,West,2024-11-07
+C0312,Retail,North,2024-11-08
+C0313,Premier,South,2024-11-09
+C0314,Small Business,East,2024-11-10
+C0315,Retail,West,2024-11-11
+C0316,Premier,North,2024-11-12
+C0317,Small Business,South,2024-11-13
+C0318,Retail,East,2024-11-14
+C0319,Premier,West,2024-11-15
+C0320,Small Business,North,2024-11-16
+C0321,Retail,South,2024-11-17
+C0322,Premier,East,2024-11-18
+C0323,Small Business,West,2024-11-19
+C0324,Retail,North,2024-11-20
+C0325,Premier,South,2024-11-21
+C0326,Small Business,East,2024-11-22
+C0327,Retail,West,2024-11-23
+C0328,Premier,North,2024-11-24
+C0329,Small Business,South,2024-11-25
+C0330,Retail,East,2024-11-26
+C0331,Premier,West,2024-11-27
+C0332,Small Business,North,2024-11-28
+C0333,Retail,South,2024-11-29
+C0334,Premier,East,2024-11-30
+C0335,Small Business,West,2024-12-01
+C0336,Retail,North,2024-12-02
+C0337,Premier,South,2024-12-03
+C0338,Small Business,East,2024-12-04
+C0339,Retail,West,2024-12-05
+C0340,Premier,North,2024-12-06
+C0341,Small Business,South,2024-12-07
+C0342,Retail,East,2024-12-08
+C0343,Premier,West,2024-12-09
+C0344,Small Business,North,2024-12-10
+C0345,Retail,South,2024-12-11
+C0346,Premier,East,2024-12-12
+C0347,Small Business,West,2024-12-13
+C0348,Retail,North,2024-12-14
+C0349,Premier,South,2024-12-15
+C0350,Small Business,East,2024-12-16
+C0351,Retail,West,2024-12-17
+C0352,Premier,North,2024-12-18
+C0353,Small Business,South,2024-12-19
+C0354,Retail,East,2024-12-20
+C0355,Premier,West,2024-12-21
+C0356,Small Business,North,2024-12-22
+C0357,Retail,South,2024-12-23
+C0358,Premier,East,2024-12-24
+C0359,Small Business,West,2024-12-25
+C0360,Retail,North,2024-12-26
+C0361,Premier,South,2024-12-27
+C0362,Small Business,East,2024-12-28
+C0363,Retail,West,2024-12-29
+C0364,Premier,North,2024-12-30
+C0365,Small Business,South,2024-12-31
+C0366,Retail,East,2025-01-01
+C0367,Premier,West,2025-01-02
+C0368,Small Business,North,2025-01-03
+C0369,Retail,South,2025-01-04
+C0370,Premier,East,2025-01-05
+C0371,Small Business,West,2025-01-06
+C0372,Retail,North,2025-01-07
+C0373,Premier,South,2025-01-08
+C0374,Small Business,East,2025-01-09
+C0375,Retail,West,2025-01-10
+C0376,Premier,North,2025-01-11
+C0377,Small Business,South,2025-01-12
+C0378,Retail,East,2025-01-13
+C0379,Premier,West,2025-01-14
+C0380,Small Business,North,2025-01-15
+C0381,Retail,South,2025-01-16
+C0382,Premier,East,2025-01-17
+C0383,Small Business,West,2025-01-18
+C0384,Retail,North,2025-01-19
+C0385,Premier,South,2025-01-20
+C0386,Small Business,East,2025-01-21
+C0387,Retail,West,2025-01-22
+C0388,Premier,North,2025-01-23
+C0389,Small Business,South,2025-01-24
+C0390,Retail,East,2025-01-25
+C0391,Premier,West,2025-01-26
+C0392,Small Business,North,2025-01-27
+C0393,Retail,South,2025-01-28
+C0394,Premier,East,2025-01-29
+C0395,Small Business,West,2025-01-30
+C0396,Retail,North,2025-01-31
+C0397,Premier,South,2025-02-01
+C0398,Small Business,East,2025-02-02
+C0399,Retail,West,2025-02-03
+C0400,Premier,North,2025-02-04

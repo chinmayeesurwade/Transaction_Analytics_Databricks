@@ -1,0 +1,10 @@
+{
+  "raw_rows": 5002,
+  "clean_rows": 4997,
+  "rejected_rows": 5,
+  "distinct_clean_ids": 4997,
+  "mart_rows": 27,
+  "mart_transaction_total": 4997,
+  "failed_count": 348,
+  "completed_value_inr": 58284120.99
+}
